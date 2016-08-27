@@ -11,6 +11,9 @@ add_source_files(SRCS_LIST
     filter/filtercoef_hbf_70.h
     filter/filtercoef_hbf_100.h
     filter/filtercoef_hbf_140.h
+    filter/fir_decim.cpp
+    filter/fir_decim.h
+    filter/fir_decim_coef.h
     hbf_decim.cpp
     hbf_decim.h
 	rds/api.h
